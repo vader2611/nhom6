@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/bgr3"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <EditText
+        android:drawableLeft="@drawable/user"
+
+        android:id="@+id/username1"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="vader"
+        android:hint="Tài khoản"
+        android:textColorHint="#FF3300"
+        android:textColor="#FF3300"
+        android:layout_marginTop="320dp"/>
+
+    <EditText
+        android:id="@+id/password1"
+        android:drawableLeft="@drawable/keys"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="vader"
+        android:hint="Mật khẩu"
+        android:inputType="textPassword"
+        android:textColorHint="#FF3300"
+        android:textColor="#FF3300"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/username1"/>
+
+    <Button
+
+        android:id="@+id/btnsignin1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Đăng nhập"
+        android:textStyle="italic"
+        android:textColor="#021A73"
+
+        android:layout_marginTop="40dp"
+        android:background="@null"
+        android:layout_below="@+id/password1"/>
+    <Button
+        android:textColor="#021A73"
+        android:id="@+id/btnDangki"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tạo tài khoản"
+        android:textStyle="italic"
+        android:background="@null"
+        android:layout_marginTop="10dp"
+        android:onClick="dangki"
+        android:layout_below="@+id/btnsignin1"/>
+</LinearLayout>

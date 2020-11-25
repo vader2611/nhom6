@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:background="#CC3300"
+    android:gravity="center_vertical">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="ClickMenu"
+        android:tint="#fff"
+        android:src="@drawable/ic_menu"/>
+
+    <EditText
+        android:id="@+id/edtTimKiem"
+        android:layout_width="304dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/bg_edt"
+        android:gravity="center"
+        android:hint="Mời bạn nhập tên truyện"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF"
+        android:textSize="20dp"
+
+
+        />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:onClick="update"
+        android:src="@drawable/update"
+        android:tint="#fff"
+
+        />
+
+</LinearLayout>

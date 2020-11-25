@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="698dp"
+            android:fontFamily="@font/thuphapthienan"
+            android:gravity="center"
+            android:text="Nội dung của các điều khoản này
+Dù biết rằng bạn rất dễ bỏ qua những Điều khoản dịch vụ này, nhưng chúng tôi cần phải nêu rõ trách nhiệm của chúng tôi cũng như trách nhiệm của bạn trong quá trình bạn sử dụng các dịch vụ của  .
+Các Điều khoản dịch vụ này phản ánh cách thức kinh doanh của  , những điều luật mà công ty chúng tôi phải tuân theo và một số điều mà chúng tôi vẫn luôn tin là đúng. Do đó, các Điều khoản dịch vụ này giúp xác định mối quan hệ giữa   với bạn khi bạn tương tác với các dịch vụ của chúng tôi. Ví dụ: Các điều khoản này trình bày các chủ đề sau:
+
+Trách nhiệm của chúng tôi: Đây là phần mô tả cách chúng tôi cung cấp và phát triển các dịch vụ của mình
+Trách nhiệm của bạn: Phần này nêu ra một số quy tắc mà bạn phải tuân theo khi sử dụng các dịch vụ của chúng tôi
+Nội dung trong các dịch vụ của  : Phần này mô tả quyền sở hữu trí tuệ đối với nội dung mà bạn thấy trong các dịch vụ của chúng tôi, bất kể nội dung đó thuộc về bạn,   hay người khác
+Trong trường hợp xảy ra vấn đề hoặc bất đồng: Phần này mô tả các quyền hợp pháp khác mà bạn có và những điều bạn nên biết trong trường hợp có người vi phạm các điều khoản này
+Việc hiểu rõ các điều khoản này là rất quan trọng vì bằng việc sử dụng các dịch vụ của chúng tôi, bạn đồng ý với các điều khoản này.
+
+Bên cạnh các điều khoản này, chúng tôi cũng ban hành Chính sách quyền riêng tư. Mặc dù không nằm trong các điều khoản này, nhưng đây là một chính sách bạn nên đọc để hiểu rõ hơn cách bạn có thể cập nhật, quản lý, xuất và xóa thông tin của mình.
+
+Nhà cung cấp dịch vụ
+Pháp nhân sau đây cung cấp các dịch vụ của  và ký kết hợp đồng với bạn:
+
+ LLC
+được thành lập theo luật của tiểu bang Delaware, Hoa Kỳ và hoạt động theo luật pháp Hoa Kỳ
+
+1600 Amphitheatre Parkway
+Mountain View, California 94043
+Hoa Kỳ
+
+Yêu cầu về độ tuổi
+Nếu chưa đủ tuổi để tự quản lý Tài khoản  theo quy định, bạn phải được cha mẹ hoặc người giám hộ hợp pháp  cho phép thì mới có thể sử dụng Tài khoản  . Vui lòng yêu cầu cha mẹ hoặc người giám hộ hợp pháp cùng bạn đọc các điều khoản này.
+
+Nếu bạn là cha mẹ hoặc người giám hộ hợp pháp và bạn cho phép con bạn sử dụng các dịch vụ này, thì bạn phải tuân theo các điều khoản này và chịu trách nhiệm đối với hoạt động của con bạn trong các dịch vụ đó.
+
+Một số dịch vụ của   có các yêu cầu bổ sung về độ tuổi như mô tả trong các chính sách và điều khoản bổ sung dành riêng cho từng dịch vụ.
+
+
+Mối quan hệ của bạn với
+Các điều khoản này giúp xác định mối quan hệ giữa bạn và  . Nhìn chung, chúng tôi cấp cho bạn quyền sử dụng các dịch vụ của chúng tôi nếu bạn đồng ý tuân thủ các điều khoản này, là các điều khoản phản ánh cách thức kinh doanh của   và cách chúng tôi kiếm tiền. Các từ/cụm từ   có nghĩa là   LLC và các công ty liên kết của   LLC.
+
+Trách nhiệm của chúng tôi
+Cung cấp nhiều dịch vụ hữu ích
+
+Chúng tôi cung cấp nhiều dịch vụ chịu sự điều chỉnh của các điều khoản này, bao gồm:
+ứng dụng và trang web (như Tìm kiếm và Maps)
+nền tảng (như   Play)
+dịch vụ tích hợp (như dịch vụ Maps được nhúng trong ứng dụng hoặc trang web của công ty khác)
+thiết bị (như   Home)
+Các dịch vụ của chúng tôi được thiết kế để hoạt động cùng nhau nhằm giúp bạn chuyển từ hoạt động này sang hoạt động khác một cách dễ dàng. Ví dụ: Maps có thể nhắc bạn lên đường đến một buổi hẹn có trong Lịch   của bạn.
+
+Cải thiện các dịch vụ của
+
+Chúng tôi liên tục phát triển các công nghệ và tính năng mới để cải thiện các dịch vụ của chúng tôi. Ví dụ: chúng tôi đầu tư vào trí tuệ nhân tạo – một công nghệ sử dụng khả năng máy học để phát hiện và ngăn chặn nội dung rác cũng như phần mềm độc hại, đồng thời cung cấp cho bạn các tính năng đổi mới như dịch thuật song song. Trong quá trình cải tiến liên tục này, đôi khi, chúng tôi sẽ bổ sung hoặc xóa các tính năng và chức năng, tăng hoặc giảm các giới hạn đối với các dịch vụ, và bắt đầu cung cấp dịch vụ mới hoặc ngừng cung cấp dịch vụ cũ.
+
+Nếu chúng tôi thực hiện các thay đổi quan trọng có ảnh hưởng tiêu cực đến việc bạn sử dụng các dịch vụ của chúng tôi, hoặc nếu chúng tôi ngừng cung cấp một dịch vụ, thì chúng tôi sẽ thông báo trước cho bạn trong khoảng thời gian hợp lý và cho bạn cơ hội xuất nội dung của bạn trong Tài khoản   mà bạn sở hữu bằng ứng dụng   Takeout, trừ các trường hợp khẩn cấp, chẳng hạn như khi cần ngăn chặn hành vi sử dụng sai trái đang diễn ra, đáp ứng các yêu cầu pháp lý, hoặc giải quyết các vấn đề về tính bảo mật hoặc khả năng vận hành.
+
+Trách nhiệm của bạn
+Tuân thủ các điều khoản này và các điều khoản bổ sung dành riêng cho từng dịch vụ
+
+Quyền mà chúng tôi đã cấp cho bạn để sử dụng các dịch vụ của chúng tôi sẽ tiếp tục có hiệu lực miễn là bạn thực hiện đầy đủ trách nhiệm của mình theo:
+các điều khoản này
+các điều khoản bổ sung dành riêng cho từng dịch vụ (ví dụ như các điều khoản bổ sung này có thể có thêm yêu cầu về độ tuổi)
+Chúng tôi cũng cung cấp cho bạn nhiều chính sách, trung tâm trợ giúp và nguồn khác nhằm trả lời các câu hỏi thường gặp và đặt ra những kỳ vọng của chúng tôi đối với bạn trong quá trình bạn sử dụng các dịch vụ của chúng tôi. Các nguồn này bao gồm Chính sách quyền riêng tư, Trung tâm trợ giúp về bản quyền, Trung tâm an toàn và các trang khác mà bạn có thể truy cập vào từ trang web chính sách của chúng tôi.
+
+Mặc dù chúng tôi cấp cho bạn quyền sử dụng các dịch vụ của chúng tôi, nhưng chúng tôi vẫn bảo lưu mọi quyền sở hữu trí tuệ mà chúng tôi có đối với các dịch vụ.
+
+Tôn trọng người khác
+
+Nhiều dịch vụ của chúng tôi cho phép bạn tương tác với người khác. Chúng tôi muốn duy trì một môi trường mà trong đó mọi người đều tôn trọng lẫn nhau, vì vậy, bạn phải tuân theo các quy tắc ứng xử cơ bản sau đây:
+tuân thủ các luật hiện hành, bao gồm cả luật kiểm soát xuất khẩu, chế tài và phòng chống mua bán người
+tôn trọng các quyền của người khác, bao gồm cả quyền riêng tư và quyền sở hữu trí tuệ
+không lạm dụng hoặc làm hại người khác hay chính bản thân bạn (hoặc đe dọa hay khuyến khích thực hiện hành vi lạm dụng hoặc gây hại đó) – chẳng hạn như bằng cách đưa thông tin sai lệch, lừa đảo, phỉ báng, bắt nạt, quấy rối hoặc đeo bám người khác
+không lạm dụng, gây hại, can thiệp hoặc làm gián đoạn các dịch vụ
+Các điều khoản và chính sách bổ sung dành riêng cho từng dịch vụ của chúng tôi cung cấp thêm thông tin chi tiết về cách hành xử thích hợp mà những người sử dụng dịch vụ phải tuân thủ. Nếu bạn phát hiện người khác không tuân thủ các quy tắc này, thì nhiều dịch vụ của chúng tôi cho phép bạn báo cáo hành vi sử dụng trái quy tắc. Nếu chúng tôi hành động dựa vào việc có người báo cáo hành vi sử dụng trái quy tắc, thì chúng tôi cũng áp dụng một quy trình công bằng như mô tả trong phần Thực hiện hành động trong trường hợp xảy ra vấn đề.
+
+Quyền sử dụng nội dung của bạn
+
+Một số dịch vụ của chúng tôi được thiết kế để bạn có thể tải lên, nộp, lưu trữ, gửi, nhận, chia sẻ hoặc tải nội dung của bạn lên. Bạn không có nghĩa vụ cung cấp bất kỳ nội dung nào của bạn cho các dịch vụ của chúng tôi và bạn có thể chọn nội dung bạn muốn cung cấp. Nếu bạn chọn chia sẻ hoặc tải nội dung lên, vui lòng đảm bảo rằng bạn có các quyền cần thiết để làm điều đó và rằng nội dung đó là nội dung hợp pháp.
+
+Giấy phép
+Nội dung của bạn vẫn thuộc về bạn, nghĩa là bạn bảo lưu mọi quyền sở hữu trí tuệ mà bạn có đối với nội dung của bạn. Ví dụ: Bạn có quyền sở hữu trí tuệ đối với nội dung sáng tạo mà bạn tạo ra, chẳng hạn như các bài đánh giá bạn viết. Hoặc bạn có thể có quyền chia sẻ nội dung sáng tạo của người khác nếu họ đã cho phép bạn làm như vậy.
+
+Chúng tôi cần bạn cho phép trong trường hợp quyền sở hữu trí tuệ của bạn hạn chế chúng tôi sử dụng nội dung của bạn. Bạn cung cấp cho   quyền đó thông qua giấy phép này.
+
+Nội dung thuộc phạm vi cấp phép
+Giấy phép này có hiệu lực đối với nội dung của bạn nếu nội dung đó được bảo hộ theo luật sở hữu trí tuệ.
+
+Nội dung không thuộc phạm vi cấp phép
+Giấy phép này không ảnh hưởng đến quyền riêng tư mà chỉ ảnh hưởng đến quyền sở hữu trí tuệ của bạn
+Giấy phép này không áp dụng cho các loại nội dung sau:
+thông tin thực tế và có thể thu thập công khai mà bạn cung cấp, chẳng hạn như nội dung chỉnh sửa đối với địa chỉ của một doanh nghiệp địa phương. Thông tin đó không yêu cầu giấy phép vì được xem là kiến thức chung mà tất cả mọi người đều có quyền tự do sử dụng.
+ý kiến phản hồi mà bạn cung cấp, chẳng hạn như ý kiến đề xuất nhằm cải thiện các dịch vụ của chúng tôi. Các điểm liên quan đến ý kiến phản hồi được trình bày trong phần Thông tin giao tiếp liên quan đến dịch vụ bên dưới.
+Phạm vi
+Giấy phép này:
+áp dụng trên toàn cầu, nghĩa là giấy phép này có hiệu lực ở bất kỳ nơi nào trên toàn thế giới
+không độc quyền, nghĩa là bạn có thể cấp phép sử dụng nội dung của bạn cho người khác
+miễn phí bản quyền, nghĩa là không phải trả phí cho giấy phép này
+Quyền hạn
+Giấy phép này cấp cho   quyền:
+
+lưu trữ, tái sản xuất, phân phối, truyền đạt và sử dụng nội dung của bạn, chẳng hạn như lưu nội dung của bạn vào các hệ thống của chúng tôi và giúp bạn truy cập nội dung đó ở bất kỳ nơi nào
+xuất bản, trình diễn công khai hoặc hiển thị công khai nội dung của bạn nếu bạn đã cho phép nội dung đó hiển thị cho người khác
+chỉnh sửa và tạo tác phẩm phái sinh dựa trên nội dung của bạn, chẳng hạn như định dạng lại hoặc dịch nội dung
+cấp phép thứ cấp các quyền này cho:
+những người dùng khác để các dịch vụ có thể hoạt động theo đúng mục đích, chẳng hạn như cho phép bạn chia sẻ ảnh với những người bạn chọn
+những nhà thầu đã ký thỏa thuận với chúng tôi theo đúng các điều khoản này và chỉ giới hạn trong những mục đích được mô tả trong phần Mục đích dưới đây
+Mục đích
+Giấy phép là dành cho mục đích có giới hạn như sau:
+
+vận hành và cải thiện các dịch vụ, nghĩa là tạo điều kiện để các dịch vụ hoạt động theo đúng mục đích, đồng thời tạo ra các tính năng và chức năng mới. Hoạt động này bao gồm cả việc sử dụng các hệ thống tự động và thuật toán để phân tích nội dung của bạn:
+đối với nội dung rác, phần mềm độc hại và nội dung bất hợp pháp
+để tìm ra các quy luật trong dữ liệu, chẳng hạn như trong việc xác định các trường hợp nên đề xuất một album mới trong   Photos để lưu giữ các bức ảnh có liên quan cùng nhau
+tùy chỉnh các dịch vụ của chúng tôi cho phù hợp với bạn, chẳng hạn như đề xuất nội dung và cung cấp kết quả tìm kiếm, nội dung và quảng cáo được cá nhân hóa (bạn có thể thay đổi hoặc tắt tính năng này trong mục Cài đặt quảng cáo)
+Phân tích này diễn ra khi nội dung được gửi, nhận cũng như khi được lưu trữ.
+sử dụng nội dung bạn đã chia sẻ công khai để quảng bá các dịch vụ. Ví dụ: Để quảng bá một ứng dụng của  , chúng tôi có thể trích dẫn một bài đánh giá mà bạn đã viết. Hoặc để quảng bá   Play, chúng tôi có thể hiển thị ảnh chụp màn hình của ứng dụng mà bạn cung cấp trong Cửa hàng Play.
+phát triển công nghệ và dịch vụ mới cho   theo đúng các điều khoản này
+Thời hạn
+Giấy phép này có hiệu lực cho đến chừng nào mà nội dung của bạn còn được luật sở hữu trí tuệ bảo hộ.
+
+Nếu bạn xóa bất kỳ nội dung nào thuộc phạm vi của giấy phép này khỏi các dịch vụ của chúng tôi, thì hệ thống của chúng tôi sẽ ngừng công khai nội dung đó sau một khoảng thời gian hợp lý. Có hai trường hợp ngoại lệ:
+
+Nếu bạn đã chia sẻ nội dung của mình với người khác trước khi xóa. Ví dụ: Nếu bạn đã chia sẻ một bức ảnh với một người bạn, sau đó, người này sao chép bức ảnh đó hoặc chia sẻ ảnh với người khác, thì ảnh đó có thể tiếp tục xuất hiện trong Tài khoản   của người bạn này kể cả sau khi bạn xóa ảnh khỏi Tài khoản   của bạn.
+Nếu bạn cung cấp nội dung của bạn thông qua dịch vụ của các công ty khác, thì có thể các công cụ tìm kiếm (bao gồm cả   Tìm kiếm) sẽ tiếp tục tìm thấy và hiển thị nội dung của bạn trong các kết quả tìm kiếm của họ.
+
+Sử dụng các dịch vụ của
+Tài khoản   của bạn
+Nếu đáp ứng các yêu cầu về độ tuổi này, thì bạn có thể tạo Tài khoản   để thuận tiện cho bạn. Một số dịch vụ yêu cầu bạn phải có Tài khoản   thì dịch vụ mới có thể hoạt động. Ví dụ: Để sử dụng Gmail, bạn cần tạo Tài khoản   để có một địa chỉ gửi và nhận email.
+
+Bạn chịu trách nhiệm về mọi việc bạn làm thông qua Tài khoản   của bạn, bao gồm cả việc thực hiện các biện pháp hợp lý để bảo mật Tài khoản   của bạn, và chúng tôi khuyên bạn nên thường xuyên sử dụng công cụ Kiểm tra bảo mật.
+
+Sử dụng các dịch vụ của   thay mặt một tổ chức
+Nhiều tổ chức, chẳng hạn như các doanh nghiệp, tổ chức phi lợi nhuận và trường học, khai thác các dịch vụ của chúng tôi. Để sử dụng các dịch vụ của chúng tôi thay mặt cho một tổ chức:
+một người đại diện theo uỷ quyền của tổ chức đó phải đồng ý với các điều khoản này
+quản trị viên của tổ chức của bạn có thể cấp cho bạn một Tài khoản  . Quản trị viên đó có thể yêu cầu bạn phải tuân theo các quy tắc bổ sung, đồng thời có thể có quyền truy cập hoặc vô hiệu hóa Tài khoản   của bạn.
+Thông tin trao đổi liên quan đến dịch vụ
+Để cung cấp các dịch vụ cho bạn, đôi khi, chúng tôi sẽ gửi cho bạn các thông báo về dịch vụ và những thông tin khác. Để tìm hiểu thêm về cách chúng tôi liên lạc với bạn, hãy xem Chính sách quyền riêng tư của  .
+
+Nếu bạn chọn cung cấp ý kiến phản hồi cho chúng tôi, chẳng hạn như ý kiến đề xuất nhằm cải thiện các dịch vụ của chúng tôi, thì chúng tôi có thể hành động dựa trên ý kiến phản hồi của bạn mà không phải chịu nghĩa vụ nào với bạn.
+
+
+Nội dung trong các dịch vụ của
+Nội dung của bạn
+Một số dịch vụ của chúng tôi mang đến cho bạn cơ hội công khai nội dung của bạn, ví dụ như bạn có thể đăng bài đánh giá mà bạn đã viết về một sản phẩm hoặc nhà hàng, hoặc bạn có thể tải bài viết bạn đã tạo lên một blog.
+
+Hãy xem phần Quyền sử dụng nội dung của bạn để biết thêm thông tin về các quyền bạn có đối với nội dung của bạn, cũng như cách nội dung đó được sử dụng trong các dịch vụ của chúng tôi
+Xem phần Xóa nội dung của bạn để tìm hiểu lý do và cách thức chúng tôi có thể xóa nội dung do người dùng tạo khỏi các dịch vụ của chúng tôi
+Nếu cho rằng có người đang vi phạm quyền sở hữu trí tuệ của bạn, thì bạn có thể gửi thông báo cho chúng tôi về hành vi vi phạm đó và chúng tôi sẽ có biện pháp xử lý thích hợp. Ví dụ: Chúng tôi sẽ tạm ngưng hoặc đóng Tài khoản   của những người vi phạm bản quyền nhiều lần như mô tả trong Trung tâm trợ giúp về bản quyền của chúng tôi.
+
+Nội dung của
+Một số dịch vụ của chúng tôi có chứa nội dung thuộc về  , ví dụ như phần lớn hình ảnh minh họa mà bạn thấy trong   Maps. Bạn có thể sử dụng nội dung của   theo sự cho phép trong các điều khoản này và mọi điều khoản bổ sung dành riêng cho từng dịch vụ, nhưng chúng tôi vẫn bảo lưu mọi quyền sở hữu trí tuệ mà chúng tôi có đối với nội dung đó. Bạn không được xóa, che khuất hoặc thay đổi bất kỳ đặc điểm thương hiệu, biểu tượng hoặc thông báo pháp lý nào của chúng tôi. Nếu bạn muốn sử dụng các đặc điểm thương hiệu hoặc biểu trưng của chúng tôi, vui lòng xem trang   Brand Permissions.
+
+Nội dung khác
+Cuối cùng, một số dịch vụ của chúng tôi cấp cho bạn quyền truy cập nội dung thuộc về người hoặc tổ chức khác, ví dụ như nội dung mô tả của một chủ cửa hàng về doanh nghiệp của chính họ hoặc một bài báo xuất hiện trên   Tin tức. Bạn không được sử dụng nội dung này khi chưa được sự cho phép của người hoặc tổ chức đó, hoặc nếu không được pháp luật cho phép. Các quan điểm thể hiện trong nội dung của những người hoặc tổ chức khác là quan điểm riêng của họ và không nhất thiết phản ánh quan điểm của  .
+
+
+Phần mềm trong các dịch vụ của
+Một số dịch vụ của chúng tôi có chứa phần mềm có thể tải xuống. Chúng tôi cho phép bạn sử dụng phần mềm đó như một phần của các dịch vụ.
+
+Giấy phép chúng tôi cấp cho bạn:
+áp dụng trên toàn cầu, nghĩa là giấy phép này có hiệu lực ở bất kỳ nơi nào trên toàn thế giới
+không độc quyền, nghĩa là bạn có thể cấp phép sử dụng nội dung của bạn cho người khác
+miễn phí bản quyền, nghĩa là bạn không phải trả phí cho giấy phép này
+dành cho cá nhân, nghĩa là giấy phép không có hiệu lực với bất kỳ người nào khác
+không thể chuyển nhượng, nghĩa là bạn không được phép chuyển nhượng giấy phép này cho bất kỳ người nào khác
+Một số dịch vụ của chúng tôi có chứa phần mềm được cung cấp theo các điều khoản trong giấy phép nguồn mở mà chúng tôi cung cấp cho bạn. Đôi khi, giấy phép nguồn mở này có các điều khoản rõ ràng được ưu tiên áp dụng so với một số phần trong các điều khoản này. Do đó, xin đừng quên đọc các giấy phép đó.
+
+Bạn không được sao chép, sửa đổi, phân phối, bán hoặc cho thuê bất kỳ thành phần nào trong phần mềm hay các dịch vụ của chúng tôi. Ngoài ra, bạn cũng không được dùng kỹ thuật đảo ngược hoặc tìm cách trích xuất bất kỳ mã nguồn nào của chúng tôi trừ khi có sự cho phép bằng văn bản của chúng tôi hoặc luật hiện hành cho phép.
+
+Khi một dịch vụ nào đó cần có hoặc chứa phần mềm có thể tải xuống, thì trong một số trường hợp, phần mềm này có thể tự động cập nhật trên thiết bị của bạn ngay khi có sẵn một phiên bản hoặc tính năng mới. Một số dịch vụ cho phép bạn điều chỉnh các tùy chọn cài đặt về việc tự động cập nhật.
+
+"
+            android:textColor="#000000"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
