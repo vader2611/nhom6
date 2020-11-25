@@ -63,10 +63,11 @@
        >
 
         <TextView
+            android:onClick="ClickDashboard"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Dashboard"
+            android:text="Điều khoản"
             android:padding="12dp"
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp" />
@@ -85,11 +86,11 @@
         >
 
         <TextView
+            android:onClick="ClickAboutUs"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="AboutUs"
-            android:padding="12dp"
+            android:text="Đăng xuất "
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp" />
         <ImageView
@@ -110,7 +111,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Logout"
+            android:text="Thoát"
             android:padding="12dp"
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp" />

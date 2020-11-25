@@ -75,6 +75,14 @@ public class ManHinhChuActivity extends AppCompatActivity implements LayTruyenVe
     public void ClickHome(View view) {
         recreate();
     }
+    public void ClickDashboard(View view) {
+        redirectActivity(this, DieuKhoanActivity.class);
+    }
+
+    public void ClickAboutUs(View view){
+        redirectActivity(this,LoginActivity.class);
+
+    }
 
 
 
